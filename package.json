@@ -2,7 +2,14 @@
   "name": "switch-path-ruta3",
   "version": "0.1.0",
   "description": "Alternative implementation of staltz/switch-path, based on ruta3",
-  "main": "index.js",
+  "keywords": [
+    "router",
+    "switch-path",
+    "ruta3",
+    "cyclejs",
+    "cyclic-router"
+  ],
+  "main": "src/index.js",
   "scripts": {
     "mocha": "mocha ./test/index.ts --require ts-node/register",
     "test": "npm run mocha",
@@ -13,7 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/wmaurer/switch-path-ruta3.git"
   },
-  "author": "Wayne Maurer",
+  "author": "Wayne Maurer <wayne-npm@waynemaurer.net>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wmaurer/switch-path-ruta3/issues"
