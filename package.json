@@ -1,6 +1,6 @@
 {
   "name": "switch-path-ruta3",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Alternative implementation of staltz/switch-path, based on ruta3",
   "keywords": [
     "router",
