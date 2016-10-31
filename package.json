@@ -1,6 +1,6 @@
 {
   "name": "switch-path-ruta3",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Alternative implementation of staltz/switch-path, based on ruta3",
   "keywords": [
     "router",
@@ -9,7 +9,7 @@
     "cyclejs",
     "cyclic-router"
   ],
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "mocha": "mocha ./test/index.ts --require ts-node/register",
     "test": "npm run mocha",
